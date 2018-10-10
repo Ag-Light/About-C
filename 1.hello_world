@@ -1,0 +1,7 @@
+/* The first C program. */
+#include<studi.h>
+main()
+{   
+   printf("Hello world/n");
+}
+

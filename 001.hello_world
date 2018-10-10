@@ -1,5 +1,5 @@
 /* The first C program. */
-#include<studi.h>
+#include <stdio.h>
 main()
 {   
    printf("Hello world/n");

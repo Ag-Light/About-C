@@ -1,1 +1,2 @@
-# About C.
+## Just some example of C.
+

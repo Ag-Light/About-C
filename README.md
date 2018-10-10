@@ -1,1 +1,1 @@
-# About-C
+# About C.

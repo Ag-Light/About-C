@@ -1,0 +1,10 @@
+/*Comparing the size of float*/
+#include <stdio.h>
+main()
+{
+	float x, y, result;				
+	printf("Please input x and y:\n");	
+	scanf("%f %f", &x, &y);
+	result = x>y ? x : y;				
+	printf("MAX of (%f,%f) is %f", x, y, result);	
+}

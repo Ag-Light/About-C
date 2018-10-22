@@ -1,0 +1,11 @@
+/*Calculate the product of two integers*/
+#include<stdio.h>
+main()
+{
+	int x, y, result;
+	printf("Please input x and y:\n");
+	scanf("%d %d", &x, &y);
+	result = x*y;
+	printf("%d*%d=%d\n", x, y, result);
+
+}
